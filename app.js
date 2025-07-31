@@ -1,10 +1,3 @@
-//INTEGRANTES DEL EQUIPO
-// - Sebastian Badillo Romo
-// - Jose de Jesus Bernal Munoz
-// - Lazaro Roberto Luevano Serna
-// - Carlos Isaac Reyes Martinez
-
-
 import mongoose from "mongoose";
 import dotenv from "dotenv";
 import express from "express";
